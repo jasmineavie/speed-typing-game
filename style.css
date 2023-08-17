@@ -17,12 +17,7 @@ body, .userInput {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
-.timer {
-    position: absolute;
-    top: 20px;
-    font-size: 70px;
-    color: lightgoldenrodyellow;
-}
+
 
 .container {
     background-color: lightgoldenrodyellow;
@@ -32,6 +27,13 @@ body, .userInput {
     border-radius: 50px;
     max-width: 90%;
 
+}
+
+.timer {
+    position: absolute;
+    top: 20px;
+    font-size: 70px;
+    color: lightgoldenrodyellow;
 }
 
 .quote {
