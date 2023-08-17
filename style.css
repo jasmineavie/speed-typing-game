@@ -52,6 +52,11 @@ body, .userInput {
     border-radius: 30px; */
 }
 
+.correct{
+    color: darkgreen;
+}
+
+
 .incorrect{
     color: red;
     text-decoration: underline;
